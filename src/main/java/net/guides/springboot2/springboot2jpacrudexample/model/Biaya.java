@@ -16,7 +16,7 @@ public class Biaya {
 	private String semesterBiaya;
 	private int gajiOrtu;
 	private String tunggakan;
-	
+	public Biaya() {}
 	public Biaya(String nama, String semesterBiaya, Integer gajiOrtu, String tunggakan) {
 		
 		this.nama = nama;

@@ -16,7 +16,7 @@ public class Course {
 	private String courseName;
 	private int semester;
 	private String courseStatus;
-	
+	public Course() {}
 	public Course(String courseCode, String courseName, Integer semester, String courseStatus) {
 		
 		this.courseCode = courseCode;
