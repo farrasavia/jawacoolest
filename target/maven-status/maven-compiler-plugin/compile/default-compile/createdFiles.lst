@@ -1,7 +1,10 @@
+net\guides\springboot2\springboot2jpacrudexample\model\Biaya.class
+net\guides\springboot2\springboot2jpacrudexample\repository\BiayaRepository.class
 net\guides\springboot2\springboot2jpacrudexample\exception\GlobalExceptionHandler.class
 net\guides\springboot2\springboot2jpacrudexample\model\Student.class
 net\guides\springboot2\springboot2jpacrudexample\repository\StudentRepository.class
 net\guides\springboot2\springboot2jpacrudexample\model\Course.class
+net\guides\springboot2\springboot2jpacrudexample\controller\BiayaController.class
 net\guides\springboot2\springboot2jpacrudexample\controller\CourseController.class
 net\guides\springboot2\springboot2jpacrudexample\controller\LectureController.class
 net\guides\springboot2\springboot2jpacrudexample\repository\CourseRepository.class
